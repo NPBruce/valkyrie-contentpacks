@@ -1,2 +1,2 @@
 # valkyrie-contentpacks
-Content Packs for Valkyrie
+Old content packs for Valkyrie, this is now obsolete.
